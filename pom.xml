@@ -57,7 +57,7 @@
 		<repository>
 			<id>deploymentRepo</id>
 			<name>Nexus Repository</name>
-			<url>http://localhost:8081/repository/maven-snapshots/</url>
+			<url>http://localhost:8081/repository/2MPAWI-G4-timesheet/</url>
 		</repository>
 	</distributionManagement>
 
